@@ -149,6 +149,7 @@ main hr {
 .intro {
     margin-right: 50px;
     margin-bottom: 50px;
+    text-align: justify;
 }
 .sub-title {
     font-size: 50px;
