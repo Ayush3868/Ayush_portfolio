@@ -17,6 +17,8 @@ nav {
     height: 90px;
     background-color: rgb(11, 15, 105);
     border-radius:50px;
+    position: fixed;
+    top: 0;
 }
 
 nav ul {
