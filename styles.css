@@ -319,7 +319,7 @@ main hr {
 }
 
 .project-list div:hover{
-    background-color: rgb(3, 4, 38);
+    background-color: rgb(11, 15, 105);
     transform: translate(0, -10px);
 
 }
